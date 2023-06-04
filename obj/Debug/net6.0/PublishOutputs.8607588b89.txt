@@ -1,0 +1,7 @@
+/home/kazi/MubinsWebApp/pub/MubinsWebApp
+/home/kazi/MubinsWebApp/pub/appsettings.Development.json
+/home/kazi/MubinsWebApp/pub/appsettings.json
+/home/kazi/MubinsWebApp/pub/MubinsWebApp.dll
+/home/kazi/MubinsWebApp/pub/MubinsWebApp.deps.json
+/home/kazi/MubinsWebApp/pub/MubinsWebApp.runtimeconfig.json
+/home/kazi/MubinsWebApp/pub/MubinsWebApp.pdb
